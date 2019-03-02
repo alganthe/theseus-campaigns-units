@@ -1,0 +1,12 @@
+name = "Theseus campaigns units";
+picture = "";
+actionName = "";
+action = "";
+description = "Theseus campaigns units";
+logo = "";
+logoOver = "";
+tooltip = "Theseus campaigns units";
+tooltipOwned = "Theseus Owned";
+overview = "Theseus campaigns";
+author = "Alganthe";
+overviewPicture = "";
